@@ -1,0 +1,14 @@
+/Volumes/Dados/Courses/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.deps.json
+/Volumes/Dados/Courses/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.runtimeconfig.json
+/Volumes/Dados/Courses/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.runtimeconfig.dev.json
+/Volumes/Dados/Courses/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.dll
+/Volumes/Dados/Courses/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.pdb
+/Volumes/Dados/Courses/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.csprojAssemblyReference.cache
+/Volumes/Dados/Courses/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.csproj.CoreCompileInputs.cache
+/Volumes/Dados/Courses/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorAssemblyInfo.cache
+/Volumes/Dados/Courses/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorAssemblyInfo.cs
+/Volumes/Dados/Courses/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.AssemblyInfoInputs.cache
+/Volumes/Dados/Courses/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.AssemblyInfo.cs
+/Volumes/Dados/Courses/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorTargetAssemblyInfo.cache
+/Volumes/Dados/Courses/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.dll
+/Volumes/Dados/Courses/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.pdb
